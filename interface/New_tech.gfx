@@ -1,0 +1,18 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_radial_engines_1_medium"
+		texturefile = "gfx/interface/technologies/bba_tech_radial_engines_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_radial_engines_2_medium"
+		texturefile = "gfx/interface/technologies/bba_tech_radial_engines_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_radial_engines_3_medium"
+		texturefile = "gfx/interface/technologies/bba_tech_radial_engines_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_radial_engines_4_medium"
+		texturefile = "gfx/interface/technologies/bba_tech_radial_engines_4.dds"
+	}
+}	
